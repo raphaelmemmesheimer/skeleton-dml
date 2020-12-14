@@ -43,8 +43,8 @@ cd skeleton-dml
 pip install -r requirements.txt
 export DATASET_FOLDER="$(pwd)/data"
 mkdir -p data/ntu/
-wget https://agas.uni-koblenz.de/datasets/skeleton-dml/ntu_120_one_shot.zip
-unzip ntu_120_one_shot.zip -d $DATASET_FOLDER/ntu/ntu_reindex
+wget https://agas.uni-koblenz.de/datasets/skeleton-dml/skeleton-dml-ntu_120_one_shot.zip
+unzip skeleton-dml-ntu_120_one_shot.zip -d $DATASET_FOLDER/ntu/ntu_reindex
 python train.py dataset=ntu_reindex
 ```
 when returning you have to set the dataset folder again:
