@@ -32,7 +32,7 @@ A pre-print can be found on [arxiv](TODO).
 
 We provide precalculated representations for all conducted experiment splits of the Skeleton-DML representation:
 
-* [NTU RGB+D 120 One-Shot](https://agas.uni-koblenz.de/datasets/skeleton-dml/ntu_120_one_shot.zip)
+* [NTU RGB+D 120 One-Shot](https://agas.uni-koblenz.de/skeleton-dml/skeleton-dml-ntu_120_one_shot.zip)
 
 ## Quick Start
 
