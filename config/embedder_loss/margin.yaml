@@ -1,0 +1,5 @@
+embedder_loss:
+  name: "margin_loss"
+  margin: 0.2
+  nu: 1.0
+  beta: 10

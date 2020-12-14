@@ -1,0 +1,6 @@
+
+    dataset:
+      name: "NTU_ONE_SHOT_REP_SKEPXELS_VEL"
+      #data_dir: "ntu/representations/skepxels_vel/one_shot_val"
+      data_dir: "ntu/representations/skepxels_vel/one_shot"
+      

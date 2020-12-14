@@ -1,0 +1,4 @@
+dataset:
+  name: "UTDMHAD_IMU_015_012_SWAP"
+  #data_dir: "/utdmhad/one_shot/aux_015_val_012/imu"
+  data_dir: "/utdmhad/UTDMHAD_inertialswaplinear/aux_015_val_012"

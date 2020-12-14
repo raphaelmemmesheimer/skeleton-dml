@@ -1,0 +1,13 @@
+transform:
+  transform_resize: 256
+  transform_resize_match: False
+  transform_normalize: False
+  transform_random_horizontal_flip: False
+  transform_random_perspective: False
+  transform_random_affine: False
+  transform_random_resized_crop: False
+  transform_random_rotation: False
+  transform_random_shear: False
+  #transform_scale_a: 2
+  #transform_scale_b: 4
+  #RandomAffine(degrees, translate=None, scale=None, shear=None, resample=False, fillcolor=0)

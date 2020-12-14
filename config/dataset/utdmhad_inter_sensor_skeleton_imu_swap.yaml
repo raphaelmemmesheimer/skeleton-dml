@@ -1,0 +1,3 @@
+dataset:
+  name: "UTDMHAD_INTER_SENSOR_SKELETON_IMU_SWAP"
+  data_dir: "utdmhad/UTDMHAD_intersensor/train_skeleton_infer_imu"

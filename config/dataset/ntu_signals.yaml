@@ -1,0 +1,4 @@
+dataset:
+  name: "NTU_ONE_SHOT_SIGNALS"
+  #data_dir: "/ntu/ntu_no_border/one_shot_val"
+  data_dir: "/ntu/ntu_no_border/one_shot"

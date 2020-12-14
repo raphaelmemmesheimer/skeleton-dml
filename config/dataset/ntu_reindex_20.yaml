@@ -1,0 +1,4 @@
+dataset:
+  name: "NTU_ONE_SHOT_REINDEX_20"
+  #data_dir: "/ntu/ntu_reindexing_testreindexing/one_shot_val"
+  data_dir: "/ntu/ntu_reindex/one_shot_20"

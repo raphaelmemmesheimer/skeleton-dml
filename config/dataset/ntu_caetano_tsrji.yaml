@@ -1,0 +1,3 @@
+dataset:
+  name: "NTU_ONE_SHOT_CAETANO_TSRJI"
+  data_dir: "/ntu/ntu_120_CaetanoTSRJI/one_shot_val"

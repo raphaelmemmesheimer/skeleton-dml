@@ -1,0 +1,11 @@
+defaults:
+  - mode: final_train
+  - model: resnet_18
+  - dataset: ntu_signals
+  - optimizer: rmsprop
+  - miner: multi_similarity
+  - embedder_loss: triplet_margin
+  - trainer: default
+  - loss: default
+  - embedder: default
+  - transform: minimal

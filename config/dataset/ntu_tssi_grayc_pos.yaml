@@ -1,0 +1,6 @@
+
+    dataset:
+      name: "NTU_ONE_SHOT_REP_TSSI_GRAYC_POS"
+      #data_dir: "ntu/representations/tssi_grayc_pos/one_shot_val"
+      data_dir: "ntu/representations/tssi_grayc_pos/one_shot"
+      

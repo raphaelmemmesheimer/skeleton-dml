@@ -1,0 +1,9 @@
+optimizer:
+  name: "sdg"
+  lr: 0.01
+  weight_decay: 0
+  momentum: 0
+scheduler:
+  name: "step"
+  step_size: 30
+  gamma: 0.1

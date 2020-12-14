@@ -1,0 +1,5 @@
+dataset:
+  name: "MMACT_INTER_MODAL_PHONE_TO_WATCH"
+  #data_dir: "/ntu/ntu_swap_axes_testswapaxes/one_shot_val"
+  data_dir: "/mmact/inter_modal/phone_to_watch"
+  train_classes: 100

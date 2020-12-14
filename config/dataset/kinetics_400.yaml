@@ -1,0 +1,4 @@
+dataset:
+  name: "KINETICS_400_SKELETON_INIT"
+  #data_dir: "/kinetics/kinetics-representation/one_shot/one_shot_val"
+  data_dir: "/kinetics/kinetics-representation/one_shot"

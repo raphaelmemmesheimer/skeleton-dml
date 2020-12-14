@@ -1,0 +1,9 @@
+optimizer:
+  name: "rmsprop"
+  lr: 0.000001
+  weight_decay: 0
+  momentum: 0
+scheduler:
+  name: "step"
+  step_size: 1000
+  gamma: 0.1

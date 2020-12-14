@@ -1,0 +1,4 @@
+dataset:
+  name: "UTDMHAD_FUSED_015_012_SWAP"
+  #data_dir: "/utdmhad/one_shot/aux_015_val_012/fused"
+  data_dir: "/utdmhad/UTDMHAD_fused_swap/aux_015_val_012"

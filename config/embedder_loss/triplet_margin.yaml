@@ -1,0 +1,4 @@
+embedder_loss:
+  name: "triplet_margin"
+  margin: 0.2
+

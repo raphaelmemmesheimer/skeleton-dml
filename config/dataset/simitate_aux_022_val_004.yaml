@@ -1,0 +1,3 @@
+dataset: 
+  name: "SIMITATE_022_004"
+  data_dir: "/simitate/one_shot/aux_022_val_004"

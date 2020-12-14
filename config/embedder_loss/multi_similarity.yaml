@@ -1,0 +1,5 @@
+embedder_loss:
+  name: "multi_similarity"
+  alpha: 0.1
+  beta: 40
+  base: 0.5

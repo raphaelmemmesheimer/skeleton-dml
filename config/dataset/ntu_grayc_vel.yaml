@@ -1,0 +1,6 @@
+
+    dataset:
+      name: "NTU_ONE_SHOT_REP_GRAYC_VEL"
+      #data_dir: "ntu/representations/grayc_vel/one_shot_val"
+      data_dir: "ntu/representations/grayc_vel/one_shot"
+      

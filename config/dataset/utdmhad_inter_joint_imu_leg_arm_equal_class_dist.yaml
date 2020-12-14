@@ -1,0 +1,3 @@
+dataset:
+  name: "UTDMHAD_INTER_JOINT_LEG_ARM_EQUAL_CLASS_DIST"
+  data_dir: "/utdmhad/one_shot/inter_joint_imu_leg_arm_equal_class_distribution"

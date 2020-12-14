@@ -1,0 +1,4 @@
+dataset:
+  name: "UTDMHAD_SKELETON_003_024"
+  #data_dir: "/utdmhad/one_shot/aux_003_val_024/skeleton"
+  data_dir: "/utdmhad/UTDMHAD_skeletonswaplinear/aux_003_val_024"

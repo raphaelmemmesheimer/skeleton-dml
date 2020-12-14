@@ -1,0 +1,4 @@
+trainer:
+  num_epochs: 3
+  batch_size: 32
+  iterations_per_epoch: 500

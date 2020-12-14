@@ -1,0 +1,3 @@
+embedder:
+  size: 128
+  class_out_size: 21

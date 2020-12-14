@@ -1,0 +1,6 @@
+
+    dataset:
+      name: "NTU_ONE_SHOT_REP_GRAYJ_ANGLE"
+      #data_dir: "ntu/representations/grayj_angle/one_shot_val"
+      data_dir: "ntu/representations/grayj_angle/one_shot"
+      

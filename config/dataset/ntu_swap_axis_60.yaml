@@ -1,0 +1,5 @@
+dataset:
+  name: "NTU_ONE_SHOT_SWAP_AXIS_60"
+  #data_dir: "/ntu/ntu_swap_axes_testswapaxes/one_shot_val"
+  data_dir: "/ntu/ntu_swap_axes_testswapaxes/one_shot_60"
+  train_classes: 60

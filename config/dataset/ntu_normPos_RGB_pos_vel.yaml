@@ -1,0 +1,4 @@
+dataset:
+  name: "NTU_ONE_SHOT_NORMPOS_RGB_POS_VEL"
+  #data_dir: "/ntu/representations/normPos_RGB_pos_vel/one_shot_val"
+  data_dir: "/ntu/representations/normPos_RGB_pos_vel/one_shot"
