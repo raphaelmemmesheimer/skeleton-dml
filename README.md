@@ -3,7 +3,7 @@
 ![Skeleton-DML Overview](images/example.png)
 
 This repository contains the source code to reproduce the results from the Skeleton-DML paper.
-A pre-print can be found on [arxiv](TODO).
+A pre-print can be found on [arxiv](https://arxiv.org/abs/2012.13823).
 
 <!--## Video Abstract-->
 
