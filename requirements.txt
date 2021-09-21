@@ -1,0 +1,8 @@
+record-keeper
+pytorch-metric-learning
+torch==1.5.0
+torchvision==0.6.0
+umap-learn
+hydra-core
+tensorboard
+faiss-gpu
