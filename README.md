@@ -5,10 +5,10 @@
 This repository contains the source code to reproduce the results from the Skeleton-DML paper.
 A pre-print can be found on [arxiv](https://arxiv.org/abs/2012.13823).
 
-<!--## Video Abstract-->
+# Video Abstract
 
 
-<!--[![SL-DML Overview](images/sl-dml_video_preview.png)](https://userpages.uni-koblenz.de/~raphael/videos/sl-dml.mp4)-->
+[![SL-DML Overview](images/skeleton-dml_video_preview.png)](https://www.youtube.com/watch?v=jH5eMDZfMyY)
 
 <!--[Video](https://userpages.uni-koblenz.de/~raphael/videos/sl-dml.mp4)-->
 
