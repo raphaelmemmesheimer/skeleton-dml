@@ -3,6 +3,6 @@ pytorch-metric-learning
 torch==1.5.0
 torchvision==0.6.0
 umap-learn
-hydra-core
+hydra-core==0.11.3
 tensorboard
 faiss-gpu
